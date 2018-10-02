@@ -1,0 +1,8 @@
+spidersweb.pl##.moove-gdpr-info-bar-container
+spidersweb.pl###moove_gdpr_cookie_info_bar
+spidersweb.pl##.moove-gdpr-align-center.moove-gdpr-dark-scheme
+winclub.pl###elGuestTerms
+winclub.pl##.ipsPad_half.ipsJS_hide
+forum.mp3store.pl##.cAnnouncementPageTop.ipsMessage.ipsMessage_success
+forum.mp3store.pl###elGuestTerms
+forum.mp3store.pl##.ipsPad_half.ipsJS_hide
